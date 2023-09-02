@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AnimalFeed</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="home_fragment_label">Animal Feeds</string>
+    <string name="feedmix_fragment_label">Feed Mix</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="adjust_portions">Adjust Portions</string>
+    <string name="new_feed">Create New Feed</string>
+    <string name="zero_mass">0.0KG</string>
+    <string name="mix_mass">%.1fKG</string>
+    <string name="nutrient_mix_ratio">%.2f%%</string>
+    <string name="nutrient_ratio_min">\u2265 %.2f%%</string>
+    <string name="nutrient_mass_min">\u2265 %.1fKG</string>
+    <string name="nutrient_ratio_max">\u2264 %.2f%%</string>
+    <string name="nutrient_mass_max">\u2264 %.1fKG</string>
+    <string name="nutrient_name_ratio">%s %.2f%%</string>
+    <string name="cancel">Cancel</string>
+    <string name="set_mass">Set %s Mass</string>
+    <string name="mass">Mass</string>
+    <string name="remainder_mass">Remainder: %.2fKG</string>
+    <string name="remainder_empty">Remainder: —</string>
+    <string name="total_mass">Total Mass</string>
+
+</resources>

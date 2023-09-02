@@ -1,0 +1,468 @@
+[
+  {
+    "feedName": "Chick Starter",
+    "animal": "Poultry",
+    "nutrients": [
+      {
+        "name": "Crude Protein",
+        "ratio": 18,
+        "level": "min"
+      },
+      {
+        "name": "Crude Fibre",
+        "ratio": 6,
+        "level": "max"
+      },
+      {
+        "name": "Crude Fat",
+        "ratio": 6,
+        "level": "max"
+      },
+      {
+        "name": "Calcium",
+        "ratio": 1,
+        "level": "min"
+      },
+      {
+        "name": "A. P",
+        "ratio": 0.4,
+        "level": "min"
+      },
+      {
+        "name": "Methionine",
+        "ratio": 0.44,
+        "level": "min"
+      },
+      {
+        "name": "Lysine",
+        "ratio": 1.1,
+        "level": "min"
+      }
+    ]
+  },
+  {
+    "feedName": "Grower Mash",
+    "animal": "Poultry",
+    "nutrients": [
+      {
+        "name": "Crude Protein",
+        "ratio": 14,
+        "level": "min"
+      },
+      {
+        "name": "Crude Fibre",
+        "ratio": 6,
+        "level": "max"
+      },
+      {
+        "name": "Crude Fat",
+        "ratio": 6,
+        "level": "max"
+      },
+      {
+        "name": "Calcium",
+        "ratio": 1,
+        "level": "min"
+      },
+      {
+        "name": "A. P",
+        "ratio": 0.35,
+        "level": "min"
+      },
+      {
+        "name": "Methionine",
+        "ratio": 0.3,
+        "level": "min"
+      },
+      {
+        "name": "Lysine",
+        "ratio": 0.6,
+        "level": "min"
+      }
+    ]
+  },
+  {
+    "feedName": "Layer Mash",
+    "animal": "Poultry",
+    "nutrients": [
+      {
+        "name": "Crude Protein",
+        "ratio": 16,
+        "level": "min"
+      },
+      {
+        "name": "Crude Fibre",
+        "ratio": 6,
+        "level": "max"
+      },
+      {
+        "name": "Crude Fat",
+        "ratio": 6,
+        "level": "max"
+      },
+      {
+        "name": "Calcium",
+        "ratio": 3.4,
+        "level": "min"
+      },
+      {
+        "name": "A. P",
+        "ratio": 0.4,
+        "level": "min"
+      },
+      {
+        "name": "Methionine",
+        "ratio": 0.38,
+        "level": "min"
+      },
+      {
+        "name": "Lysine",
+        "ratio": 0.75,
+        "level": "min"
+      }
+    ]
+  },
+  {
+    "feedName": "Broiler Starter",
+    "animal": "Poultry",
+    "nutrients": [
+      {
+        "name": "Crude Protein",
+        "ratio": 22,
+        "level": "min"
+      },
+      {
+        "name": "Crude Fibre",
+        "ratio": 6,
+        "level": "max"
+      },
+      {
+        "name": "Crude Fat",
+        "ratio": 6,
+        "level": "max"
+      },
+      {
+        "name": "Calcium",
+        "ratio": 1,
+        "level": "min"
+      },
+      {
+        "name": "A. P",
+        "ratio": 0.45,
+        "level": "min"
+      },
+      {
+        "name": "Methionine",
+        "ratio": 0.46,
+        "level": "min"
+      },
+      {
+        "name": "Lysine",
+        "ratio": 1.2,
+        "level": "min"
+      }
+    ]
+  },
+  {
+    "feedName": "Broiler Finisher",
+    "animal": "Poultry",
+    "nutrients": [
+      {
+        "name": "Crude Protein",
+        "ratio": 18,
+        "level": "min"
+      },
+      {
+        "name": "Crude Fibre",
+        "ratio": 6,
+        "level": "max"
+      },
+      {
+        "name": "Crude Fat",
+        "ratio": 6,
+        "level": "max"
+      },
+      {
+        "name": "Calcium",
+        "ratio": 1,
+        "level": "min"
+      },
+      {
+        "name": "A. P",
+        "ratio": 0.45,
+        "level": "min"
+      },
+      {
+        "name": "Methionine",
+        "ratio": 0.4,
+        "level": "min"
+      },
+      {
+        "name": "Lysine",
+        "ratio": 1,
+        "level": "min"
+      }
+    ]
+  },
+  {
+    "feedName": "Creep Feed",
+    "animal": "Pig",
+    "nutrients": [
+      {
+        "name": "Crude Protein",
+        "ratio": 18,
+        "level": "none"
+      },
+      {
+        "name": "Crude Fibre",
+        "ratio": 6,
+        "level": "max"
+      },
+      {
+        "name": "Crude Fat",
+        "ratio": 6,
+        "level": "none"
+      },
+      {
+        "name": "Calcium",
+        "ratio": 1,
+        "level": "none"
+      },
+      {
+        "name": "Phosphorous",
+        "ratio": 0.75,
+        "level": "none"
+      },
+      {
+        "name": "Lysine",
+        "ratio": 0.9,
+        "level": "none"
+      },
+      {
+        "name": "Methionine",
+        "ratio": 0.55,
+        "level": "none"
+      }
+    ]
+  },
+  {
+    "feedName": "Sow and Weaner",
+    "animal": "Pig",
+    "nutrients": [
+      {
+        "name": "Crude Protein",
+        "ratio": 16,
+        "level": "none"
+      },
+      {
+        "name": "Crude Fibre",
+        "ratio": 6,
+        "level": "max"
+      },
+      {
+        "name": "Crude Fat",
+        "ratio": 6,
+        "level": "none"
+      },
+      {
+        "name": "Calcium",
+        "ratio": 0.75,
+        "level": "none"
+      },
+      {
+        "name": "Phosphorous",
+        "ratio": 0.6,
+        "level": "none"
+      },
+      {
+        "name": "Lysine",
+        "ratio": 0.8,
+        "level": "none"
+      },
+      {
+        "name": "Methionine",
+        "ratio": 0.41,
+        "level": "none"
+      }
+    ]
+  },
+  {
+    "feedName": "Pig Finisher",
+    "animal": "Pig",
+    "nutrients": [
+      {
+        "name": "Crude Protein",
+        "ratio": 14,
+        "level": "none"
+      },
+      {
+        "name": "Crude Fibre",
+        "ratio": 6,
+        "level": "max"
+      },
+      {
+        "name": "Crude Fat",
+        "ratio": 6,
+        "level": "none"
+      },
+      {
+        "name": "Calcium",
+        "ratio": "0.6",
+        "level": "none"
+      },
+      {
+        "name": "Phosphorous",
+        "ratio": 0.4,
+        "level": "none"
+      },
+      {
+        "name": "Lysine",
+        "ratio": 0.6,
+        "level": "none"
+      },
+      {
+        "name": "Methionine",
+        "ratio": 0.32,
+        "level": "none"
+      }
+    ]
+  },
+  {
+    "feedName": "Dairy Calves",
+    "animal": "Cattle",
+    "nutrients": [
+      {
+        "name": "Moisture",
+        "ratio": 12,
+        "level": "max"
+      },
+      {
+        "name": "Crude Protein",
+        "ratio": 18,
+        "level": "min"
+      },
+      {
+        "name": "NPN",
+        "ratio": 0,
+        "level": "max"
+      },
+      {
+        "name": "Crude Fiber",
+        "ratio": 8,
+        "level": "max"
+      },
+      {
+        "name": "Crude Fat",
+        "ratio": 5.5,
+        "level": "max"
+      },
+      {
+        "name": "Calcium",
+        "ratio": 0.7,
+        "level": "min"
+      },
+      {
+        "name": "Phosphorous",
+        "ratio": 0.5,
+        "level": "min"
+      },
+      {
+        "name": "Common Salt",
+        "ratio": 0.55,
+        "level": "none"
+      }
+    ]
+  },
+  {
+    "feedName": "Heifers",
+    "animal": "Cattle",
+    "nutrients": [
+      {
+        "name": "Moisture",
+        "ratio": 12,
+        "level": "max"
+      },
+      {
+        "name": "Crude Protein",
+        "ratio": 15,
+        "level": "min"
+      },
+      {
+        "name": "NPN",
+        "ratio": 2,
+        "level": "max"
+      },
+      {
+        "name": "Crude Fiber",
+        "ratio": 12,
+        "level": "max"
+      },
+      {
+        "name": "Crude Fat",
+        "ratio": 5.5,
+        "level": "max"
+      },
+      {
+        "name": "Calcium",
+        "ratio": 0.7,
+        "level": "min"
+      },
+      {
+        "name": "Phosphorous",
+        "ratio": 0.5,
+        "level": "min"
+      },
+      {
+        "name": "Common Salt",
+        "ratio": 0.55,
+        "level": "none"
+      }
+    ]
+  },
+  {
+    "feedName": "Mature Dairy Cows",
+    "animal": "Cattle",
+    "nutrients": [
+      {
+        "name": "Moisture",
+        "ratio": 12,
+        "level": "max"
+      },
+      {
+        "name": "Crude Protein",
+        "ratio": 15,
+        "level": "min"
+      },
+      {
+        "name": "NPN",
+        "ratio": 2,
+        "level": "max"
+      },
+      {
+        "name": "Crude Fiber",
+        "ratio": 12,
+        "level": "max"
+      },
+      {
+        "name": "Crude Fat",
+        "ratio": 4.5,
+        "level": "max"
+      },
+      {
+        "name": "Calcium",
+        "ratio": 0.7,
+        "level": "min"
+      },
+      {
+        "name": "Phosphorous",
+        "ratio": 0.5,
+        "level": "min"
+      },
+      {
+        "name": "Common Salt",
+        "ratio": 0.55,
+        "level": "none"
+      }
+    ]
+  }
+]

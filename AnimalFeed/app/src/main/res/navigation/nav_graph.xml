@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/HomeFragment">
+
+    <fragment
+        android:id="@+id/HomeFragment"
+        android:name="com.kimaita.animalfeed.HomeFragment"
+        android:label="@string/home_fragment_label"
+        tools:layout="@layout/fragment_home">
+
+        <action
+            android:id="@+id/action_home_to_feed"
+            app:destination="@id/FeedMixFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/FeedMixFragment"
+        android:name="com.kimaita.animalfeed.FeedMixFragment"
+        android:label="@string/feedmix_fragment_label"
+        tools:layout="@layout/fragment_feed_mix">
+        <argument
+            android:name="feed"
+            app:argType="string" />
+        <argument
+            android:name="animal"
+            app:argType="string"/>
+    </fragment>
+</navigation>
